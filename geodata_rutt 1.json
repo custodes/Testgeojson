@@ -1,0 +1,3468 @@
+{
+    "type": "FeatureCollection",
+    "bbox": [
+        20.207767,
+        63.799127,
+        20.417409,
+        63.873352
+    ],
+    "features": [
+        {
+            "bbox": [
+                20.207767,
+                63.799127,
+                20.417409,
+                63.873352
+            ],
+            "type": "Feature",
+            "properties": {
+                "segments": [
+                    {
+                        "distance": 6313.5,
+                        "duration": 797.2,
+                        "steps": [
+                            {
+                                "distance": 931.3,
+                                "duration": 91.0,
+                                "type": 11,
+                                "instruction": "Head east on B\u00f6lev\u00e4gen",
+                                "name": "B\u00f6lev\u00e4gen",
+                                "way_points": [
+                                    0,
+                                    27
+                                ]
+                            },
+                            {
+                                "distance": 241.5,
+                                "duration": 51.3,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Norra Obbolav\u00e4gen",
+                                "name": "Norra Obbolav\u00e4gen",
+                                "exit_number": 2,
+                                "way_points": [
+                                    27,
+                                    39
+                                ]
+                            },
+                            {
+                                "distance": 371.9,
+                                "duration": 48.2,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Norra Obbolav\u00e4gen",
+                                "name": "Norra Obbolav\u00e4gen",
+                                "exit_number": 2,
+                                "way_points": [
+                                    39,
+                                    52
+                                ]
+                            },
+                            {
+                                "distance": 649.2,
+                                "duration": 80.8,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Tegsv\u00e4gen",
+                                "name": "Tegsv\u00e4gen",
+                                "exit_number": 2,
+                                "way_points": [
+                                    52,
+                                    67
+                                ]
+                            },
+                            {
+                                "distance": 336.4,
+                                "duration": 34.6,
+                                "type": 6,
+                                "instruction": "Continue straight onto Kyrkbron",
+                                "name": "Kyrkbron",
+                                "way_points": [
+                                    67,
+                                    71
+                                ]
+                            },
+                            {
+                                "distance": 507.4,
+                                "duration": 87.3,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto \u00d6stra Kyrkogatan",
+                                "name": "\u00d6stra Kyrkogatan",
+                                "exit_number": 2,
+                                "way_points": [
+                                    71,
+                                    85
+                                ]
+                            },
+                            {
+                                "distance": 977.2,
+                                "duration": 138.6,
+                                "type": 0,
+                                "instruction": "Turn left onto J\u00e4rnv\u00e4gsall\u00e9n, AC 531",
+                                "name": "J\u00e4rnv\u00e4gsall\u00e9n, AC 531",
+                                "way_points": [
+                                    85,
+                                    98
+                                ]
+                            },
+                            {
+                                "distance": 498.9,
+                                "duration": 43.9,
+                                "type": 6,
+                                "instruction": "Continue straight onto Anna Gr\u00f6nfeldts gata, AC 507",
+                                "name": "Anna Gr\u00f6nfeldts gata, AC 507",
+                                "way_points": [
+                                    98,
+                                    105
+                                ]
+                            },
+                            {
+                                "distance": 423.2,
+                                "duration": 57.1,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto Bomv\u00e4gen",
+                                "name": "Bomv\u00e4gen",
+                                "exit_number": 1,
+                                "way_points": [
+                                    105,
+                                    122
+                                ]
+                            },
+                            {
+                                "distance": 535.4,
+                                "duration": 60.9,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Hissj\u00f6v\u00e4gen, 363",
+                                "name": "Hissj\u00f6v\u00e4gen, 363",
+                                "exit_number": 2,
+                                "way_points": [
+                                    122,
+                                    141
+                                ]
+                            },
+                            {
+                                "distance": 383.6,
+                                "duration": 42.1,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto Hissj\u00f6v\u00e4gen, 363",
+                                "name": "Hissj\u00f6v\u00e4gen, 363",
+                                "exit_number": 1,
+                                "way_points": [
+                                    141,
+                                    148
+                                ]
+                            },
+                            {
+                                "distance": 394.8,
+                                "duration": 52.3,
+                                "type": 0,
+                                "instruction": "Turn left onto R\u00e4lsv\u00e4gen",
+                                "name": "R\u00e4lsv\u00e4gen",
+                                "way_points": [
+                                    148,
+                                    152
+                                ]
+                            },
+                            {
+                                "distance": 62.8,
+                                "duration": 9.0,
+                                "type": 1,
+                                "instruction": "Turn right onto Sp\u00e5rv\u00e4gen",
+                                "name": "Sp\u00e5rv\u00e4gen",
+                                "way_points": [
+                                    152,
+                                    154
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at Sp\u00e5rv\u00e4gen, on the left",
+                                "name": "-",
+                                "way_points": [
+                                    154,
+                                    154
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "distance": 2038.6,
+                        "duration": 213.0,
+                        "steps": [
+                            {
+                                "distance": 62.8,
+                                "duration": 9.0,
+                                "type": 11,
+                                "instruction": "Head southeast on Sp\u00e5rv\u00e4gen",
+                                "name": "Sp\u00e5rv\u00e4gen",
+                                "way_points": [
+                                    154,
+                                    156
+                                ]
+                            },
+                            {
+                                "distance": 394.8,
+                                "duration": 52.3,
+                                "type": 0,
+                                "instruction": "Turn left onto R\u00e4lsv\u00e4gen",
+                                "name": "R\u00e4lsv\u00e4gen",
+                                "way_points": [
+                                    156,
+                                    160
+                                ]
+                            },
+                            {
+                                "distance": 1133.3,
+                                "duration": 81.6,
+                                "type": 0,
+                                "instruction": "Turn left onto Hissj\u00f6v\u00e4gen, 363",
+                                "name": "Hissj\u00f6v\u00e4gen, 363",
+                                "way_points": [
+                                    160,
+                                    165
+                                ]
+                            },
+                            {
+                                "distance": 389.8,
+                                "duration": 59.7,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 3rd exit onto Kontaktv\u00e4gen",
+                                "name": "Kontaktv\u00e4gen",
+                                "exit_number": 3,
+                                "way_points": [
+                                    165,
+                                    177
+                                ]
+                            },
+                            {
+                                "distance": 57.9,
+                                "duration": 10.4,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    177,
+                                    178
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, on the left",
+                                "name": "-",
+                                "way_points": [
+                                    178,
+                                    178
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "distance": 13811.0,
+                        "duration": 1110.3,
+                        "steps": [
+                            {
+                                "distance": 57.9,
+                                "duration": 10.4,
+                                "type": 11,
+                                "instruction": "Head southeast",
+                                "name": "-",
+                                "way_points": [
+                                    178,
+                                    179
+                                ]
+                            },
+                            {
+                                "distance": 291.4,
+                                "duration": 42.0,
+                                "type": 0,
+                                "instruction": "Turn left onto Kontaktv\u00e4gen",
+                                "name": "Kontaktv\u00e4gen",
+                                "way_points": [
+                                    179,
+                                    182
+                                ]
+                            },
+                            {
+                                "distance": 778.6,
+                                "duration": 67.1,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 3rd exit onto Hissj\u00f6v\u00e4gen, 363",
+                                "name": "Hissj\u00f6v\u00e4gen, 363",
+                                "exit_number": 3,
+                                "way_points": [
+                                    182,
+                                    197
+                                ]
+                            },
+                            {
+                                "distance": 207.8,
+                                "duration": 38.1,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Hissj\u00f6v\u00e4gen, 363",
+                                "name": "Hissj\u00f6v\u00e4gen, 363",
+                                "exit_number": 2,
+                                "way_points": [
+                                    197,
+                                    210
+                                ]
+                            },
+                            {
+                                "distance": 4547.1,
+                                "duration": 276.2,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto Norra l\u00e4nken, E 12, 92",
+                                "name": "Norra l\u00e4nken, E 12, 92",
+                                "exit_number": 1,
+                                "way_points": [
+                                    210,
+                                    254
+                                ]
+                            },
+                            {
+                                "distance": 970.4,
+                                "duration": 99.9,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 3rd exit onto E 12, 92",
+                                "name": "E 12, 92",
+                                "exit_number": 3,
+                                "way_points": [
+                                    254,
+                                    274
+                                ]
+                            },
+                            {
+                                "distance": 1340.9,
+                                "duration": 86.5,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto E 12, 92",
+                                "name": "E 12, 92",
+                                "exit_number": 2,
+                                "way_points": [
+                                    274,
+                                    288
+                                ]
+                            },
+                            {
+                                "distance": 3919.5,
+                                "duration": 306.8,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 3rd exit onto E 4",
+                                "name": "E 4",
+                                "exit_number": 3,
+                                "way_points": [
+                                    288,
+                                    324
+                                ]
+                            },
+                            {
+                                "distance": 877.5,
+                                "duration": 80.4,
+                                "type": 0,
+                                "instruction": "Turn left onto Hj\u00e5ggmarksv\u00e4gen, AC 645",
+                                "name": "Hj\u00e5ggmarksv\u00e4gen, AC 645",
+                                "way_points": [
+                                    324,
+                                    332
+                                ]
+                            },
+                            {
+                                "distance": 772.4,
+                                "duration": 95.9,
+                                "type": 0,
+                                "instruction": "Turn left onto D\u00e5va Energiv\u00e4g",
+                                "name": "D\u00e5va Energiv\u00e4g",
+                                "way_points": [
+                                    332,
+                                    339
+                                ]
+                            },
+                            {
+                                "distance": 47.6,
+                                "duration": 6.9,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    339,
+                                    340
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, on the left",
+                                "name": "-",
+                                "way_points": [
+                                    340,
+                                    340
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "distance": 793.2,
+                        "duration": 108.7,
+                        "steps": [
+                            {
+                                "distance": 47.6,
+                                "duration": 6.9,
+                                "type": 11,
+                                "instruction": "Head southwest",
+                                "name": "-",
+                                "way_points": [
+                                    340,
+                                    341
+                                ]
+                            },
+                            {
+                                "distance": 425.6,
+                                "duration": 51.1,
+                                "type": 0,
+                                "instruction": "Turn left onto D\u00e5va Energiv\u00e4g",
+                                "name": "D\u00e5va Energiv\u00e4g",
+                                "way_points": [
+                                    341,
+                                    345
+                                ]
+                            },
+                            {
+                                "distance": 114.0,
+                                "duration": 13.7,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    345,
+                                    348
+                                ]
+                            },
+                            {
+                                "distance": 206.0,
+                                "duration": 37.1,
+                                "type": 0,
+                                "instruction": "Turn left",
+                                "name": "-",
+                                "way_points": [
+                                    348,
+                                    354
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at your destination, on the right",
+                                "name": "-",
+                                "way_points": [
+                                    354,
+                                    354
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "distance": 17306.9,
+                        "duration": 1566.2,
+                        "steps": [
+                            {
+                                "distance": 206.0,
+                                "duration": 37.1,
+                                "type": 11,
+                                "instruction": "Head northeast",
+                                "name": "-",
+                                "way_points": [
+                                    354,
+                                    360
+                                ]
+                            },
+                            {
+                                "distance": 101.1,
+                                "duration": 12.1,
+                                "type": 1,
+                                "instruction": "Turn right",
+                                "name": "-",
+                                "way_points": [
+                                    360,
+                                    362
+                                ]
+                            },
+                            {
+                                "distance": 347.3,
+                                "duration": 44.9,
+                                "type": 1,
+                                "instruction": "Turn right onto D\u00e5va Energiv\u00e4g",
+                                "name": "D\u00e5va Energiv\u00e4g",
+                                "way_points": [
+                                    362,
+                                    365
+                                ]
+                            },
+                            {
+                                "distance": 865.2,
+                                "duration": 79.3,
+                                "type": 1,
+                                "instruction": "Turn right onto Hj\u00e5ggmarksv\u00e4gen, AC 645",
+                                "name": "Hj\u00e5ggmarksv\u00e4gen, AC 645",
+                                "way_points": [
+                                    365,
+                                    372
+                                ]
+                            },
+                            {
+                                "distance": 3794.5,
+                                "duration": 274.6,
+                                "type": 1,
+                                "instruction": "Turn right onto E 4",
+                                "name": "E 4",
+                                "way_points": [
+                                    372,
+                                    395
+                                ]
+                            },
+                            {
+                                "distance": 3363.2,
+                                "duration": 279.4,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 3rd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 3,
+                                "way_points": [
+                                    395,
+                                    435
+                                ]
+                            },
+                            {
+                                "distance": 572.9,
+                                "duration": 48.9,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 2,
+                                "way_points": [
+                                    435,
+                                    447
+                                ]
+                            },
+                            {
+                                "distance": 325.6,
+                                "duration": 47.7,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 2,
+                                "way_points": [
+                                    447,
+                                    459
+                                ]
+                            },
+                            {
+                                "distance": 602.0,
+                                "duration": 57.6,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 2,
+                                "way_points": [
+                                    459,
+                                    476
+                                ]
+                            },
+                            {
+                                "distance": 639.7,
+                                "duration": 58.6,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 2,
+                                "way_points": [
+                                    476,
+                                    493
+                                ]
+                            },
+                            {
+                                "distance": 1456.0,
+                                "duration": 129.4,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "name": "Kolb\u00e4cksv\u00e4gen, E 4, E 12",
+                                "exit_number": 2,
+                                "way_points": [
+                                    493,
+                                    520
+                                ]
+                            },
+                            {
+                                "distance": 1557.3,
+                                "duration": 121.5,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto E 4",
+                                "name": "E 4",
+                                "exit_number": 1,
+                                "way_points": [
+                                    520,
+                                    547
+                                ]
+                            },
+                            {
+                                "distance": 838.6,
+                                "duration": 67.5,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto AC 503",
+                                "name": "AC 503",
+                                "exit_number": 2,
+                                "way_points": [
+                                    547,
+                                    567
+                                ]
+                            },
+                            {
+                                "distance": 202.7,
+                                "duration": 17.5,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto AC 503",
+                                "name": "AC 503",
+                                "exit_number": 1,
+                                "way_points": [
+                                    567,
+                                    578
+                                ]
+                            },
+                            {
+                                "distance": 156.8,
+                                "duration": 20.1,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Tegsesplanaden, AC 503",
+                                "name": "Tegsesplanaden, AC 503",
+                                "exit_number": 2,
+                                "way_points": [
+                                    578,
+                                    587
+                                ]
+                            },
+                            {
+                                "distance": 267.0,
+                                "duration": 24.0,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    587,
+                                    592
+                                ]
+                            },
+                            {
+                                "distance": 38.3,
+                                "duration": 9.2,
+                                "type": 13,
+                                "instruction": "Keep right",
+                                "name": "-",
+                                "way_points": [
+                                    592,
+                                    594
+                                ]
+                            },
+                            {
+                                "distance": 362.6,
+                                "duration": 37.3,
+                                "type": 5,
+                                "instruction": "Turn slight right onto Tegsv\u00e4gen",
+                                "name": "Tegsv\u00e4gen",
+                                "way_points": [
+                                    594,
+                                    599
+                                ]
+                            },
+                            {
+                                "distance": 415.4,
+                                "duration": 64.3,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Norra Obbolav\u00e4gen",
+                                "name": "Norra Obbolav\u00e4gen",
+                                "exit_number": 2,
+                                "way_points": [
+                                    599,
+                                    616
+                                ]
+                            },
+                            {
+                                "distance": 226.6,
+                                "duration": 35.3,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 2nd exit onto Norra Obbolav\u00e4gen",
+                                "name": "Norra Obbolav\u00e4gen",
+                                "exit_number": 2,
+                                "way_points": [
+                                    616,
+                                    626
+                                ]
+                            },
+                            {
+                                "distance": 968.0,
+                                "duration": 99.8,
+                                "type": 7,
+                                "instruction": "Enter the roundabout and take the 1st exit onto B\u00f6lev\u00e4gen",
+                                "name": "B\u00f6lev\u00e4gen",
+                                "exit_number": 1,
+                                "way_points": [
+                                    626,
+                                    657
+                                ]
+                            },
+                            {
+                                "distance": 0.0,
+                                "duration": 0.0,
+                                "type": 10,
+                                "instruction": "Arrive at B\u00f6lev\u00e4gen, straight ahead",
+                                "name": "-",
+                                "way_points": [
+                                    657,
+                                    657
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "extras": {
+                    "roadaccessrestrictions": {
+                        "values": [
+                            [
+                                0,
+                                333,
+                                0
+                            ],
+                            [
+                                333,
+                                335,
+                                32
+                            ],
+                            [
+                                335,
+                                362,
+                                0
+                            ],
+                            [
+                                362,
+                                364,
+                                32
+                            ],
+                            [
+                                364,
+                                657,
+                                0
+                            ]
+                        ],
+                        "summary": [
+                            {
+                                "value": 0.0,
+                                "distance": 39994.9,
+                                "amount": 99.33
+                            },
+                            {
+                                "value": 32.0,
+                                "distance": 268.3,
+                                "amount": 0.67
+                            }
+                        ]
+                    }
+                },
+                "warnings": [
+                    {
+                        "code": 1,
+                        "message": "There may be restrictions on some roads"
+                    }
+                ],
+                "way_points": [
+                    0,
+                    154,
+                    178,
+                    340,
+                    354,
+                    657
+                ],
+                "summary": {
+                    "distance": 40263.2,
+                    "duration": 3795.3999999999996
+                }
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        20.231076,
+                        63.822359
+                    ],
+                    [
+                        20.231219,
+                        63.822372
+                    ],
+                    [
+                        20.231301,
+                        63.822379
+                    ],
+                    [
+                        20.232053,
+                        63.822441
+                    ],
+                    [
+                        20.233499,
+                        63.822539
+                    ],
+                    [
+                        20.233714,
+                        63.822554
+                    ],
+                    [
+                        20.234562,
+                        63.822612
+                    ],
+                    [
+                        20.235451,
+                        63.822674
+                    ],
+                    [
+                        20.236101,
+                        63.822699
+                    ],
+                    [
+                        20.236504,
+                        63.822692
+                    ],
+                    [
+                        20.23726,
+                        63.822649
+                    ],
+                    [
+                        20.238109,
+                        63.822579
+                    ],
+                    [
+                        20.238321,
+                        63.822561
+                    ],
+                    [
+                        20.238895,
+                        63.822511
+                    ],
+                    [
+                        20.239047,
+                        63.822498
+                    ],
+                    [
+                        20.239672,
+                        63.822444
+                    ],
+                    [
+                        20.240278,
+                        63.822391
+                    ],
+                    [
+                        20.241046,
+                        63.822321
+                    ],
+                    [
+                        20.241398,
+                        63.822285
+                    ],
+                    [
+                        20.241985,
+                        63.82222
+                    ],
+                    [
+                        20.242615,
+                        63.822105
+                    ],
+                    [
+                        20.243102,
+                        63.821994
+                    ],
+                    [
+                        20.243492,
+                        63.82189
+                    ],
+                    [
+                        20.245232,
+                        63.821287
+                    ],
+                    [
+                        20.247237,
+                        63.82068
+                    ],
+                    [
+                        20.24824,
+                        63.820417
+                    ],
+                    [
+                        20.248403,
+                        63.820348
+                    ],
+                    [
+                        20.248503,
+                        63.820279
+                    ],
+                    [
+                        20.248437,
+                        63.820205
+                    ],
+                    [
+                        20.248442,
+                        63.820165
+                    ],
+                    [
+                        20.24847,
+                        63.820128
+                    ],
+                    [
+                        20.248586,
+                        63.820071
+                    ],
+                    [
+                        20.248752,
+                        63.820049
+                    ],
+                    [
+                        20.248942,
+                        63.820074
+                    ],
+                    [
+                        20.249653,
+                        63.82008
+                    ],
+                    [
+                        20.250329,
+                        63.820025
+                    ],
+                    [
+                        20.251404,
+                        63.81987
+                    ],
+                    [
+                        20.251656,
+                        63.819829
+                    ],
+                    [
+                        20.252607,
+                        63.819681
+                    ],
+                    [
+                        20.252767,
+                        63.819621
+                    ],
+                    [
+                        20.252814,
+                        63.819533
+                    ],
+                    [
+                        20.252868,
+                        63.819505
+                    ],
+                    [
+                        20.253016,
+                        63.819473
+                    ],
+                    [
+                        20.253179,
+                        63.81948
+                    ],
+                    [
+                        20.253589,
+                        63.819471
+                    ],
+                    [
+                        20.253811,
+                        63.819418
+                    ],
+                    [
+                        20.253929,
+                        63.819359
+                    ],
+                    [
+                        20.254452,
+                        63.819009
+                    ],
+                    [
+                        20.254918,
+                        63.81874
+                    ],
+                    [
+                        20.255163,
+                        63.818651
+                    ],
+                    [
+                        20.256206,
+                        63.818168
+                    ],
+                    [
+                        20.256909,
+                        63.817842
+                    ],
+                    [
+                        20.258025,
+                        63.817364
+                    ],
+                    [
+                        20.257941,
+                        63.817276
+                    ],
+                    [
+                        20.257994,
+                        63.817194
+                    ],
+                    [
+                        20.258105,
+                        63.81715
+                    ],
+                    [
+                        20.25825,
+                        63.817135
+                    ],
+                    [
+                        20.258448,
+                        63.817167
+                    ],
+                    [
+                        20.258541,
+                        63.817229
+                    ],
+                    [
+                        20.258551,
+                        63.817295
+                    ],
+                    [
+                        20.259543,
+                        63.817536
+                    ],
+                    [
+                        20.262623,
+                        63.818391
+                    ],
+                    [
+                        20.263903,
+                        63.818789
+                    ],
+                    [
+                        20.264734,
+                        63.8191
+                    ],
+                    [
+                        20.265376,
+                        63.819415
+                    ],
+                    [
+                        20.265831,
+                        63.819697
+                    ],
+                    [
+                        20.266413,
+                        63.820129
+                    ],
+                    [
+                        20.267109,
+                        63.820806
+                    ],
+                    [
+                        20.268066,
+                        63.821865
+                    ],
+                    [
+                        20.268788,
+                        63.822641
+                    ],
+                    [
+                        20.269418,
+                        63.823579
+                    ],
+                    [
+                        20.269507,
+                        63.823635
+                    ],
+                    [
+                        20.269644,
+                        63.823665
+                    ],
+                    [
+                        20.269714,
+                        63.82371
+                    ],
+                    [
+                        20.269714,
+                        63.823801
+                    ],
+                    [
+                        20.269629,
+                        63.823851
+                    ],
+                    [
+                        20.269559,
+                        63.823869
+                    ],
+                    [
+                        20.270183,
+                        63.824567
+                    ],
+                    [
+                        20.270254,
+                        63.824648
+                    ],
+                    [
+                        20.27095,
+                        63.825468
+                    ],
+                    [
+                        20.271354,
+                        63.825948
+                    ],
+                    [
+                        20.271471,
+                        63.826002
+                    ],
+                    [
+                        20.271718,
+                        63.826295
+                    ],
+                    [
+                        20.272426,
+                        63.827092
+                    ],
+                    [
+                        20.272989,
+                        63.827719
+                    ],
+                    [
+                        20.273091,
+                        63.827819
+                    ],
+                    [
+                        20.272929,
+                        63.827858
+                    ],
+                    [
+                        20.272218,
+                        63.828052
+                    ],
+                    [
+                        20.271593,
+                        63.828251
+                    ],
+                    [
+                        20.269894,
+                        63.828789
+                    ],
+                    [
+                        20.267768,
+                        63.829437
+                    ],
+                    [
+                        20.265552,
+                        63.8301
+                    ],
+                    [
+                        20.263383,
+                        63.830782
+                    ],
+                    [
+                        20.262918,
+                        63.830924
+                    ],
+                    [
+                        20.262042,
+                        63.831185
+                    ],
+                    [
+                        20.261892,
+                        63.831231
+                    ],
+                    [
+                        20.259573,
+                        63.831953
+                    ],
+                    [
+                        20.259397,
+                        63.83201
+                    ],
+                    [
+                        20.256794,
+                        63.832873
+                    ],
+                    [
+                        20.254994,
+                        63.833498
+                    ],
+                    [
+                        20.251269,
+                        63.834683
+                    ],
+                    [
+                        20.250712,
+                        63.834846
+                    ],
+                    [
+                        20.250182,
+                        63.834975
+                    ],
+                    [
+                        20.249646,
+                        63.835116
+                    ],
+                    [
+                        20.248877,
+                        63.835281
+                    ],
+                    [
+                        20.248448,
+                        63.835424
+                    ],
+                    [
+                        20.248431,
+                        63.835473
+                    ],
+                    [
+                        20.248325,
+                        63.835554
+                    ],
+                    [
+                        20.248306,
+                        63.835692
+                    ],
+                    [
+                        20.24822,
+                        63.835787
+                    ],
+                    [
+                        20.248066,
+                        63.835927
+                    ],
+                    [
+                        20.247834,
+                        63.836033
+                    ],
+                    [
+                        20.247594,
+                        63.836108
+                    ],
+                    [
+                        20.247323,
+                        63.836298
+                    ],
+                    [
+                        20.247138,
+                        63.836533
+                    ],
+                    [
+                        20.247114,
+                        63.836755
+                    ],
+                    [
+                        20.247162,
+                        63.836914
+                    ],
+                    [
+                        20.247224,
+                        63.837157
+                    ],
+                    [
+                        20.247302,
+                        63.837337
+                    ],
+                    [
+                        20.247419,
+                        63.837487
+                    ],
+                    [
+                        20.248007,
+                        63.838031
+                    ],
+                    [
+                        20.248581,
+                        63.838549
+                    ],
+                    [
+                        20.24915,
+                        63.838818
+                    ],
+                    [
+                        20.249237,
+                        63.83882
+                    ],
+                    [
+                        20.249341,
+                        63.838835
+                    ],
+                    [
+                        20.249479,
+                        63.838887
+                    ],
+                    [
+                        20.249539,
+                        63.838941
+                    ],
+                    [
+                        20.249531,
+                        63.839043
+                    ],
+                    [
+                        20.24947,
+                        63.839091
+                    ],
+                    [
+                        20.249346,
+                        63.839137
+                    ],
+                    [
+                        20.249196,
+                        63.839155
+                    ],
+                    [
+                        20.247371,
+                        63.839559
+                    ],
+                    [
+                        20.246634,
+                        63.839715
+                    ],
+                    [
+                        20.246179,
+                        63.839795
+                    ],
+                    [
+                        20.243924,
+                        63.840073
+                    ],
+                    [
+                        20.243324,
+                        63.84019
+                    ],
+                    [
+                        20.242911,
+                        63.840305
+                    ],
+                    [
+                        20.242519,
+                        63.84042
+                    ],
+                    [
+                        20.242162,
+                        63.840577
+                    ],
+                    [
+                        20.241647,
+                        63.840833
+                    ],
+                    [
+                        20.24109,
+                        63.841072
+                    ],
+                    [
+                        20.240877,
+                        63.841205
+                    ],
+                    [
+                        20.240889,
+                        63.841311
+                    ],
+                    [
+                        20.240839,
+                        63.841363
+                    ],
+                    [
+                        20.240748,
+                        63.841407
+                    ],
+                    [
+                        20.240541,
+                        63.841442
+                    ],
+                    [
+                        20.240314,
+                        63.84142
+                    ],
+                    [
+                        20.239354,
+                        63.84177
+                    ],
+                    [
+                        20.235316,
+                        63.843495
+                    ],
+                    [
+                        20.234451,
+                        63.843093
+                    ],
+                    [
+                        20.233911,
+                        63.842711
+                    ],
+                    [
+                        20.233137,
+                        63.84209
+                    ],
+                    [
+                        20.231157,
+                        63.840473
+                    ],
+                    [
+                        20.230402,
+                        63.840635
+                    ],
+                    [
+                        20.230014,
+                        63.840725
+                    ],
+                    [
+                        20.230402,
+                        63.840635
+                    ],
+                    [
+                        20.231157,
+                        63.840473
+                    ],
+                    [
+                        20.233137,
+                        63.84209
+                    ],
+                    [
+                        20.233911,
+                        63.842711
+                    ],
+                    [
+                        20.234451,
+                        63.843093
+                    ],
+                    [
+                        20.235316,
+                        63.843495
+                    ],
+                    [
+                        20.229882,
+                        63.845785
+                    ],
+                    [
+                        20.22942,
+                        63.846008
+                    ],
+                    [
+                        20.228584,
+                        63.846402
+                    ],
+                    [
+                        20.227188,
+                        63.846939
+                    ],
+                    [
+                        20.218934,
+                        63.850682
+                    ],
+                    [
+                        20.219081,
+                        63.850767
+                    ],
+                    [
+                        20.219111,
+                        63.850851
+                    ],
+                    [
+                        20.21905,
+                        63.850938
+                    ],
+                    [
+                        20.218888,
+                        63.851008
+                    ],
+                    [
+                        20.21871,
+                        63.851033
+                    ],
+                    [
+                        20.218428,
+                        63.851001
+                    ],
+                    [
+                        20.218282,
+                        63.850931
+                    ],
+                    [
+                        20.218229,
+                        63.850848
+                    ],
+                    [
+                        20.218289,
+                        63.850741
+                    ],
+                    [
+                        20.217537,
+                        63.850438
+                    ],
+                    [
+                        20.216619,
+                        63.850026
+                    ],
+                    [
+                        20.215058,
+                        63.848588
+                    ],
+                    [
+                        20.214004,
+                        63.848823
+                    ],
+                    [
+                        20.215058,
+                        63.848588
+                    ],
+                    [
+                        20.216619,
+                        63.850026
+                    ],
+                    [
+                        20.217537,
+                        63.850438
+                    ],
+                    [
+                        20.218289,
+                        63.850741
+                    ],
+                    [
+                        20.218376,
+                        63.850694
+                    ],
+                    [
+                        20.218585,
+                        63.850648
+                    ],
+                    [
+                        20.218764,
+                        63.850648
+                    ],
+                    [
+                        20.218934,
+                        63.850682
+                    ],
+                    [
+                        20.219081,
+                        63.850767
+                    ],
+                    [
+                        20.219111,
+                        63.850851
+                    ],
+                    [
+                        20.21905,
+                        63.850938
+                    ],
+                    [
+                        20.218888,
+                        63.851008
+                    ],
+                    [
+                        20.21871,
+                        63.851033
+                    ],
+                    [
+                        20.218428,
+                        63.851001
+                    ],
+                    [
+                        20.217318,
+                        63.851426
+                    ],
+                    [
+                        20.213929,
+                        63.853016
+                    ],
+                    [
+                        20.212805,
+                        63.853645
+                    ],
+                    [
+                        20.210307,
+                        63.855303
+                    ],
+                    [
+                        20.209639,
+                        63.855662
+                    ],
+                    [
+                        20.209762,
+                        63.855697
+                    ],
+                    [
+                        20.209864,
+                        63.855766
+                    ],
+                    [
+                        20.209886,
+                        63.855826
+                    ],
+                    [
+                        20.209851,
+                        63.855896
+                    ],
+                    [
+                        20.209796,
+                        63.855934
+                    ],
+                    [
+                        20.209662,
+                        63.855981
+                    ],
+                    [
+                        20.20953,
+                        63.855997
+                    ],
+                    [
+                        20.209393,
+                        63.855992
+                    ],
+                    [
+                        20.209263,
+                        63.855966
+                    ],
+                    [
+                        20.209113,
+                        63.856096
+                    ],
+                    [
+                        20.208225,
+                        63.856617
+                    ],
+                    [
+                        20.207787,
+                        63.856918
+                    ],
+                    [
+                        20.207767,
+                        63.857048
+                    ],
+                    [
+                        20.207828,
+                        63.857088
+                    ],
+                    [
+                        20.208246,
+                        63.857171
+                    ],
+                    [
+                        20.208554,
+                        63.857214
+                    ],
+                    [
+                        20.209813,
+                        63.857339
+                    ],
+                    [
+                        20.211412,
+                        63.85746
+                    ],
+                    [
+                        20.217389,
+                        63.857815
+                    ],
+                    [
+                        20.218297,
+                        63.857868
+                    ],
+                    [
+                        20.220066,
+                        63.857973
+                    ],
+                    [
+                        20.2212,
+                        63.858041
+                    ],
+                    [
+                        20.225331,
+                        63.858279
+                    ],
+                    [
+                        20.230164,
+                        63.858462
+                    ],
+                    [
+                        20.231789,
+                        63.858488
+                    ],
+                    [
+                        20.234963,
+                        63.858473
+                    ],
+                    [
+                        20.237518,
+                        63.858414
+                    ],
+                    [
+                        20.239506,
+                        63.858327
+                    ],
+                    [
+                        20.243542,
+                        63.858074
+                    ],
+                    [
+                        20.245164,
+                        63.857942
+                    ],
+                    [
+                        20.249279,
+                        63.857506
+                    ],
+                    [
+                        20.251808,
+                        63.857182
+                    ],
+                    [
+                        20.255234,
+                        63.856656
+                    ],
+                    [
+                        20.257152,
+                        63.856328
+                    ],
+                    [
+                        20.260347,
+                        63.855684
+                    ],
+                    [
+                        20.262316,
+                        63.855279
+                    ],
+                    [
+                        20.264233,
+                        63.854934
+                    ],
+                    [
+                        20.265887,
+                        63.854707
+                    ],
+                    [
+                        20.267234,
+                        63.854563
+                    ],
+                    [
+                        20.269194,
+                        63.854419
+                    ],
+                    [
+                        20.270211,
+                        63.85437
+                    ],
+                    [
+                        20.272409,
+                        63.854294
+                    ],
+                    [
+                        20.276481,
+                        63.854187
+                    ],
+                    [
+                        20.278207,
+                        63.854115
+                    ],
+                    [
+                        20.279786,
+                        63.853984
+                    ],
+                    [
+                        20.281333,
+                        63.853815
+                    ],
+                    [
+                        20.282353,
+                        63.85368
+                    ],
+                    [
+                        20.283456,
+                        63.853497
+                    ],
+                    [
+                        20.285048,
+                        63.853166
+                    ],
+                    [
+                        20.286093,
+                        63.852905
+                    ],
+                    [
+                        20.287102,
+                        63.852623
+                    ],
+                    [
+                        20.287998,
+                        63.852347
+                    ],
+                    [
+                        20.289206,
+                        63.851909
+                    ],
+                    [
+                        20.29077,
+                        63.851265
+                    ],
+                    [
+                        20.294141,
+                        63.849926
+                    ],
+                    [
+                        20.295136,
+                        63.84951
+                    ],
+                    [
+                        20.295255,
+                        63.849407
+                    ],
+                    [
+                        20.295248,
+                        63.849379
+                    ],
+                    [
+                        20.295248,
+                        63.849292
+                    ],
+                    [
+                        20.295302,
+                        63.849193
+                    ],
+                    [
+                        20.295474,
+                        63.849045
+                    ],
+                    [
+                        20.295587,
+                        63.848981
+                    ],
+                    [
+                        20.295782,
+                        63.848911
+                    ],
+                    [
+                        20.296021,
+                        63.848854
+                    ],
+                    [
+                        20.296337,
+                        63.84885
+                    ],
+                    [
+                        20.296557,
+                        63.84889
+                    ],
+                    [
+                        20.296609,
+                        63.848902
+                    ],
+                    [
+                        20.29708,
+                        63.848994
+                    ],
+                    [
+                        20.297434,
+                        63.849044
+                    ],
+                    [
+                        20.297847,
+                        63.84908
+                    ],
+                    [
+                        20.298287,
+                        63.849087
+                    ],
+                    [
+                        20.298615,
+                        63.84907
+                    ],
+                    [
+                        20.301259,
+                        63.848959
+                    ],
+                    [
+                        20.309509,
+                        63.848588
+                    ],
+                    [
+                        20.312847,
+                        63.848446
+                    ],
+                    [
+                        20.313788,
+                        63.848401
+                    ],
+                    [
+                        20.313995,
+                        63.848316
+                    ],
+                    [
+                        20.314179,
+                        63.848225
+                    ],
+                    [
+                        20.314352,
+                        63.848195
+                    ],
+                    [
+                        20.314504,
+                        63.848193
+                    ],
+                    [
+                        20.314651,
+                        63.848212
+                    ],
+                    [
+                        20.315319,
+                        63.848278
+                    ],
+                    [
+                        20.315807,
+                        63.848296
+                    ],
+                    [
+                        20.316119,
+                        63.848285
+                    ],
+                    [
+                        20.33852,
+                        63.847282
+                    ],
+                    [
+                        20.339106,
+                        63.84726
+                    ],
+                    [
+                        20.34024,
+                        63.847251
+                    ],
+                    [
+                        20.34046,
+                        63.84725
+                    ],
+                    [
+                        20.340722,
+                        63.847226
+                    ],
+                    [
+                        20.340836,
+                        63.847198
+                    ],
+                    [
+                        20.341001,
+                        63.847115
+                    ],
+                    [
+                        20.341031,
+                        63.847054
+                    ],
+                    [
+                        20.341151,
+                        63.846942
+                    ],
+                    [
+                        20.341342,
+                        63.846851
+                    ],
+                    [
+                        20.341587,
+                        63.84679
+                    ],
+                    [
+                        20.34173,
+                        63.846772
+                    ],
+                    [
+                        20.342024,
+                        63.846767
+                    ],
+                    [
+                        20.342299,
+                        63.846803
+                    ],
+                    [
+                        20.342537,
+                        63.846874
+                    ],
+                    [
+                        20.342603,
+                        63.846905
+                    ],
+                    [
+                        20.343514,
+                        63.847173
+                    ],
+                    [
+                        20.343985,
+                        63.847272
+                    ],
+                    [
+                        20.344887,
+                        63.847399
+                    ],
+                    [
+                        20.347062,
+                        63.847609
+                    ],
+                    [
+                        20.348288,
+                        63.847745
+                    ],
+                    [
+                        20.349457,
+                        63.847893
+                    ],
+                    [
+                        20.350683,
+                        63.848074
+                    ],
+                    [
+                        20.351763,
+                        63.848255
+                    ],
+                    [
+                        20.353024,
+                        63.848492
+                    ],
+                    [
+                        20.364806,
+                        63.850921
+                    ],
+                    [
+                        20.37215,
+                        63.852431
+                    ],
+                    [
+                        20.374541,
+                        63.852916
+                    ],
+                    [
+                        20.376844,
+                        63.853386
+                    ],
+                    [
+                        20.37763,
+                        63.853546
+                    ],
+                    [
+                        20.379359,
+                        63.8539
+                    ],
+                    [
+                        20.380881,
+                        63.854212
+                    ],
+                    [
+                        20.383729,
+                        63.854804
+                    ],
+                    [
+                        20.384548,
+                        63.854975
+                    ],
+                    [
+                        20.385143,
+                        63.855103
+                    ],
+                    [
+                        20.386627,
+                        63.855404
+                    ],
+                    [
+                        20.387966,
+                        63.855687
+                    ],
+                    [
+                        20.389673,
+                        63.85608
+                    ],
+                    [
+                        20.39243,
+                        63.856709
+                    ],
+                    [
+                        20.397543,
+                        63.857913
+                    ],
+                    [
+                        20.407877,
+                        63.860281
+                    ],
+                    [
+                        20.4109,
+                        63.860989
+                    ],
+                    [
+                        20.41297,
+                        63.861462
+                    ],
+                    [
+                        20.412848,
+                        63.861559
+                    ],
+                    [
+                        20.412687,
+                        63.861698
+                    ],
+                    [
+                        20.412557,
+                        63.861917
+                    ],
+                    [
+                        20.412807,
+                        63.862495
+                    ],
+                    [
+                        20.4131,
+                        63.86298
+                    ],
+                    [
+                        20.414995,
+                        63.865665
+                    ],
+                    [
+                        20.415518,
+                        63.86638
+                    ],
+                    [
+                        20.417409,
+                        63.868995
+                    ],
+                    [
+                        20.413842,
+                        63.87009
+                    ],
+                    [
+                        20.413176,
+                        63.870344
+                    ],
+                    [
+                        20.41165,
+                        63.870808
+                    ],
+                    [
+                        20.411133,
+                        63.870941
+                    ],
+                    [
+                        20.410104,
+                        63.871259
+                    ],
+                    [
+                        20.405571,
+                        63.872669
+                    ],
+                    [
+                        20.404538,
+                        63.873005
+                    ],
+                    [
+                        20.405106,
+                        63.873352
+                    ],
+                    [
+                        20.404538,
+                        63.873005
+                    ],
+                    [
+                        20.405571,
+                        63.872669
+                    ],
+                    [
+                        20.410104,
+                        63.871259
+                    ],
+                    [
+                        20.411133,
+                        63.870941
+                    ],
+                    [
+                        20.41165,
+                        63.870808
+                    ],
+                    [
+                        20.411508,
+                        63.87071
+                    ],
+                    [
+                        20.410621,
+                        63.870193
+                    ],
+                    [
+                        20.4103,
+                        63.869973
+                    ],
+                    [
+                        20.412338,
+                        63.869337
+                    ],
+                    [
+                        20.412452,
+                        63.86926
+                    ],
+                    [
+                        20.412472,
+                        63.869179
+                    ],
+                    [
+                        20.412253,
+                        63.868815
+                    ],
+                    [
+                        20.412121,
+                        63.868707
+                    ],
+                    [
+                        20.412003,
+                        63.868648
+                    ],
+                    [
+                        20.412121,
+                        63.868707
+                    ],
+                    [
+                        20.412253,
+                        63.868815
+                    ],
+                    [
+                        20.412472,
+                        63.869179
+                    ],
+                    [
+                        20.412452,
+                        63.86926
+                    ],
+                    [
+                        20.412338,
+                        63.869337
+                    ],
+                    [
+                        20.4103,
+                        63.869973
+                    ],
+                    [
+                        20.410621,
+                        63.870193
+                    ],
+                    [
+                        20.411508,
+                        63.87071
+                    ],
+                    [
+                        20.412983,
+                        63.870245
+                    ],
+                    [
+                        20.413842,
+                        63.87009
+                    ],
+                    [
+                        20.417409,
+                        63.868995
+                    ],
+                    [
+                        20.415518,
+                        63.86638
+                    ],
+                    [
+                        20.414995,
+                        63.865665
+                    ],
+                    [
+                        20.4131,
+                        63.86298
+                    ],
+                    [
+                        20.412807,
+                        63.862495
+                    ],
+                    [
+                        20.412557,
+                        63.861917
+                    ],
+                    [
+                        20.412687,
+                        63.861698
+                    ],
+                    [
+                        20.412848,
+                        63.861559
+                    ],
+                    [
+                        20.407769,
+                        63.860354
+                    ],
+                    [
+                        20.39748,
+                        63.857973
+                    ],
+                    [
+                        20.392576,
+                        63.856826
+                    ],
+                    [
+                        20.389582,
+                        63.856154
+                    ],
+                    [
+                        20.388992,
+                        63.856027
+                    ],
+                    [
+                        20.387954,
+                        63.855799
+                    ],
+                    [
+                        20.385071,
+                        63.855167
+                    ],
+                    [
+                        20.384418,
+                        63.855029
+                    ],
+                    [
+                        20.38185,
+                        63.854484
+                    ],
+                    [
+                        20.380816,
+                        63.854276
+                    ],
+                    [
+                        20.37839,
+                        63.853777
+                    ],
+                    [
+                        20.378194,
+                        63.853734
+                    ],
+                    [
+                        20.374449,
+                        63.852975
+                    ],
+                    [
+                        20.352957,
+                        63.848543
+                    ],
+                    [
+                        20.351711,
+                        63.848311
+                    ],
+                    [
+                        20.350635,
+                        63.848132
+                    ],
+                    [
+                        20.349431,
+                        63.847954
+                    ],
+                    [
+                        20.348251,
+                        63.847803
+                    ],
+                    [
+                        20.347037,
+                        63.84767
+                    ],
+                    [
+                        20.345817,
+                        63.847556
+                    ],
+                    [
+                        20.344363,
+                        63.847446
+                    ],
+                    [
+                        20.343225,
+                        63.847334
+                    ],
+                    [
+                        20.342726,
+                        63.847353
+                    ],
+                    [
+                        20.34259,
+                        63.84744
+                    ],
+                    [
+                        20.342388,
+                        63.847514
+                    ],
+                    [
+                        20.342147,
+                        63.84756
+                    ],
+                    [
+                        20.341886,
+                        63.847573
+                    ],
+                    [
+                        20.341627,
+                        63.847554
+                    ],
+                    [
+                        20.341431,
+                        63.847514
+                    ],
+                    [
+                        20.341172,
+                        63.847409
+                    ],
+                    [
+                        20.341058,
+                        63.847319
+                    ],
+                    [
+                        20.341,
+                        63.847219
+                    ],
+                    [
+                        20.341001,
+                        63.847115
+                    ],
+                    [
+                        20.341031,
+                        63.847054
+                    ],
+                    [
+                        20.340972,
+                        63.8464
+                    ],
+                    [
+                        20.340818,
+                        63.845952
+                    ],
+                    [
+                        20.340597,
+                        63.845579
+                    ],
+                    [
+                        20.340186,
+                        63.845026
+                    ],
+                    [
+                        20.339901,
+                        63.844643
+                    ],
+                    [
+                        20.33801,
+                        63.842277
+                    ],
+                    [
+                        20.337748,
+                        63.841922
+                    ],
+                    [
+                        20.337474,
+                        63.841463
+                    ],
+                    [
+                        20.336188,
+                        63.838338
+                    ],
+                    [
+                        20.335775,
+                        63.837411
+                    ],
+                    [
+                        20.335108,
+                        63.836189
+                    ],
+                    [
+                        20.334523,
+                        63.835271
+                    ],
+                    [
+                        20.333743,
+                        63.834051
+                    ],
+                    [
+                        20.333441,
+                        63.833577
+                    ],
+                    [
+                        20.332816,
+                        63.832608
+                    ],
+                    [
+                        20.332498,
+                        63.832113
+                    ],
+                    [
+                        20.332344,
+                        63.831873
+                    ],
+                    [
+                        20.331845,
+                        63.830996
+                    ],
+                    [
+                        20.331589,
+                        63.830402
+                    ],
+                    [
+                        20.331305,
+                        63.82948
+                    ],
+                    [
+                        20.331205,
+                        63.828866
+                    ],
+                    [
+                        20.330776,
+                        63.82483
+                    ],
+                    [
+                        20.330594,
+                        63.824003
+                    ],
+                    [
+                        20.330319,
+                        63.823157
+                    ],
+                    [
+                        20.329984,
+                        63.822373
+                    ],
+                    [
+                        20.328496,
+                        63.8195
+                    ],
+                    [
+                        20.328219,
+                        63.81885
+                    ],
+                    [
+                        20.328186,
+                        63.818795
+                    ],
+                    [
+                        20.328037,
+                        63.818702
+                    ],
+                    [
+                        20.327772,
+                        63.818683
+                    ],
+                    [
+                        20.327558,
+                        63.818611
+                    ],
+                    [
+                        20.327451,
+                        63.818515
+                    ],
+                    [
+                        20.327434,
+                        63.818444
+                    ],
+                    [
+                        20.327464,
+                        63.818374
+                    ],
+                    [
+                        20.327489,
+                        63.818347
+                    ],
+                    [
+                        20.327516,
+                        63.818051
+                    ],
+                    [
+                        20.327495,
+                        63.817808
+                    ],
+                    [
+                        20.326576,
+                        63.814388
+                    ],
+                    [
+                        20.326475,
+                        63.813902
+                    ],
+                    [
+                        20.326393,
+                        63.813837
+                    ],
+                    [
+                        20.326231,
+                        63.813781
+                    ],
+                    [
+                        20.326157,
+                        63.81377
+                    ],
+                    [
+                        20.325918,
+                        63.813693
+                    ],
+                    [
+                        20.325803,
+                        63.813606
+                    ],
+                    [
+                        20.325766,
+                        63.813519
+                    ],
+                    [
+                        20.325797,
+                        63.813425
+                    ],
+                    [
+                        20.325824,
+                        63.813395
+                    ],
+                    [
+                        20.326065,
+                        63.813023
+                    ],
+                    [
+                        20.326154,
+                        63.812759
+                    ],
+                    [
+                        20.325975,
+                        63.811904
+                    ],
+                    [
+                        20.325816,
+                        63.811337
+                    ],
+                    [
+                        20.325718,
+                        63.811063
+                    ],
+                    [
+                        20.325649,
+                        63.810983
+                    ],
+                    [
+                        20.325419,
+                        63.810934
+                    ],
+                    [
+                        20.325326,
+                        63.810889
+                    ],
+                    [
+                        20.325252,
+                        63.810819
+                    ],
+                    [
+                        20.32525,
+                        63.810705
+                    ],
+                    [
+                        20.325305,
+                        63.810646
+                    ],
+                    [
+                        20.325487,
+                        63.810568
+                    ],
+                    [
+                        20.325542,
+                        63.8104
+                    ],
+                    [
+                        20.325538,
+                        63.810205
+                    ],
+                    [
+                        20.325477,
+                        63.809893
+                    ],
+                    [
+                        20.325246,
+                        63.809204
+                    ],
+                    [
+                        20.325121,
+                        63.80894
+                    ],
+                    [
+                        20.324761,
+                        63.808373
+                    ],
+                    [
+                        20.324233,
+                        63.807737
+                    ],
+                    [
+                        20.323034,
+                        63.806728
+                    ],
+                    [
+                        20.322253,
+                        63.806213
+                    ],
+                    [
+                        20.322119,
+                        63.806161
+                    ],
+                    [
+                        20.321848,
+                        63.806123
+                    ],
+                    [
+                        20.321762,
+                        63.806127
+                    ],
+                    [
+                        20.321611,
+                        63.80612
+                    ],
+                    [
+                        20.321471,
+                        63.806095
+                    ],
+                    [
+                        20.321352,
+                        63.806053
+                    ],
+                    [
+                        20.321265,
+                        63.805998
+                    ],
+                    [
+                        20.321224,
+                        63.805951
+                    ],
+                    [
+                        20.321,
+                        63.805765
+                    ],
+                    [
+                        20.320684,
+                        63.805556
+                    ],
+                    [
+                        20.320399,
+                        63.805404
+                    ],
+                    [
+                        20.320056,
+                        63.805262
+                    ],
+                    [
+                        20.319324,
+                        63.804992
+                    ],
+                    [
+                        20.318508,
+                        63.804727
+                    ],
+                    [
+                        20.312538,
+                        63.803003
+                    ],
+                    [
+                        20.312002,
+                        63.802827
+                    ],
+                    [
+                        20.311871,
+                        63.802798
+                    ],
+                    [
+                        20.311754,
+                        63.802782
+                    ],
+                    [
+                        20.311531,
+                        63.802784
+                    ],
+                    [
+                        20.3114,
+                        63.802824
+                    ],
+                    [
+                        20.311204,
+                        63.802844
+                    ],
+                    [
+                        20.311035,
+                        63.802832
+                    ],
+                    [
+                        20.31094,
+                        63.802812
+                    ],
+                    [
+                        20.3108,
+                        63.802755
+                    ],
+                    [
+                        20.310731,
+                        63.802692
+                    ],
+                    [
+                        20.310191,
+                        63.802437
+                    ],
+                    [
+                        20.309416,
+                        63.802191
+                    ],
+                    [
+                        20.309317,
+                        63.802173
+                    ],
+                    [
+                        20.307902,
+                        63.801835
+                    ],
+                    [
+                        20.307257,
+                        63.801717
+                    ],
+                    [
+                        20.306199,
+                        63.801564
+                    ],
+                    [
+                        20.305366,
+                        63.801467
+                    ],
+                    [
+                        20.304457,
+                        63.801403
+                    ],
+                    [
+                        20.303423,
+                        63.801358
+                    ],
+                    [
+                        20.292569,
+                        63.80102
+                    ],
+                    [
+                        20.291886,
+                        63.800988
+                    ],
+                    [
+                        20.29123,
+                        63.80094
+                    ],
+                    [
+                        20.290149,
+                        63.800797
+                    ],
+                    [
+                        20.289481,
+                        63.800679
+                    ],
+                    [
+                        20.288954,
+                        63.800548
+                    ],
+                    [
+                        20.288536,
+                        63.800447
+                    ],
+                    [
+                        20.288188,
+                        63.800346
+                    ],
+                    [
+                        20.285988,
+                        63.799667
+                    ],
+                    [
+                        20.285029,
+                        63.79935
+                    ],
+                    [
+                        20.284483,
+                        63.799159
+                    ],
+                    [
+                        20.284067,
+                        63.799127
+                    ],
+                    [
+                        20.283894,
+                        63.799142
+                    ],
+                    [
+                        20.283706,
+                        63.799136
+                    ],
+                    [
+                        20.283108,
+                        63.799208
+                    ],
+                    [
+                        20.282674,
+                        63.79924
+                    ],
+                    [
+                        20.282185,
+                        63.799277
+                    ],
+                    [
+                        20.28108,
+                        63.799371
+                    ],
+                    [
+                        20.279309,
+                        63.799561
+                    ],
+                    [
+                        20.27755,
+                        63.799761
+                    ],
+                    [
+                        20.276226,
+                        63.799944
+                    ],
+                    [
+                        20.275275,
+                        63.800106
+                    ],
+                    [
+                        20.273836,
+                        63.800415
+                    ],
+                    [
+                        20.273098,
+                        63.800605
+                    ],
+                    [
+                        20.271617,
+                        63.801035
+                    ],
+                    [
+                        20.267837,
+                        63.802182
+                    ],
+                    [
+                        20.267073,
+                        63.802397
+                    ],
+                    [
+                        20.265677,
+                        63.80276
+                    ],
+                    [
+                        20.265055,
+                        63.802897
+                    ],
+                    [
+                        20.264364,
+                        63.803024
+                    ],
+                    [
+                        20.263435,
+                        63.803143
+                    ],
+                    [
+                        20.262435,
+                        63.803244
+                    ],
+                    [
+                        20.261899,
+                        63.803282
+                    ],
+                    [
+                        20.261272,
+                        63.803307
+                    ],
+                    [
+                        20.260415,
+                        63.803329
+                    ],
+                    [
+                        20.255931,
+                        63.803312
+                    ],
+                    [
+                        20.255199,
+                        63.803342
+                    ],
+                    [
+                        20.254844,
+                        63.803431
+                    ],
+                    [
+                        20.254717,
+                        63.803497
+                    ],
+                    [
+                        20.254695,
+                        63.8036
+                    ],
+                    [
+                        20.254545,
+                        63.80372
+                    ],
+                    [
+                        20.254313,
+                        63.803794
+                    ],
+                    [
+                        20.254075,
+                        63.803819
+                    ],
+                    [
+                        20.253804,
+                        63.8038
+                    ],
+                    [
+                        20.253534,
+                        63.803817
+                    ],
+                    [
+                        20.25314,
+                        63.803867
+                    ],
+                    [
+                        20.252888,
+                        63.803925
+                    ],
+                    [
+                        20.252475,
+                        63.804101
+                    ],
+                    [
+                        20.252025,
+                        63.804431
+                    ],
+                    [
+                        20.251146,
+                        63.805251
+                    ],
+                    [
+                        20.250475,
+                        63.805966
+                    ],
+                    [
+                        20.249951,
+                        63.806667
+                    ],
+                    [
+                        20.249558,
+                        63.807323
+                    ],
+                    [
+                        20.249038,
+                        63.808337
+                    ],
+                    [
+                        20.248703,
+                        63.808845
+                    ],
+                    [
+                        20.24836,
+                        63.809259
+                    ],
+                    [
+                        20.248162,
+                        63.809457
+                    ],
+                    [
+                        20.247696,
+                        63.809808
+                    ],
+                    [
+                        20.24767,
+                        63.809957
+                    ],
+                    [
+                        20.247773,
+                        63.81
+                    ],
+                    [
+                        20.24788,
+                        63.810088
+                    ],
+                    [
+                        20.247911,
+                        63.810142
+                    ],
+                    [
+                        20.248706,
+                        63.810569
+                    ],
+                    [
+                        20.248965,
+                        63.810757
+                    ],
+                    [
+                        20.249088,
+                        63.810897
+                    ],
+                    [
+                        20.249161,
+                        63.81103
+                    ],
+                    [
+                        20.249195,
+                        63.811182
+                    ],
+                    [
+                        20.249182,
+                        63.811427
+                    ],
+                    [
+                        20.249213,
+                        63.811472
+                    ],
+                    [
+                        20.249348,
+                        63.811553
+                    ],
+                    [
+                        20.249364,
+                        63.811558
+                    ],
+                    [
+                        20.249483,
+                        63.811598
+                    ],
+                    [
+                        20.249579,
+                        63.811662
+                    ],
+                    [
+                        20.249618,
+                        63.811748
+                    ],
+                    [
+                        20.249601,
+                        63.8118
+                    ],
+                    [
+                        20.249595,
+                        63.811813
+                    ],
+                    [
+                        20.249457,
+                        63.812147
+                    ],
+                    [
+                        20.249448,
+                        63.812323
+                    ],
+                    [
+                        20.249528,
+                        63.812912
+                    ],
+                    [
+                        20.250233,
+                        63.814106
+                    ],
+                    [
+                        20.250447,
+                        63.814378
+                    ],
+                    [
+                        20.25079,
+                        63.814675
+                    ],
+                    [
+                        20.251296,
+                        63.814979
+                    ],
+                    [
+                        20.251451,
+                        63.815133
+                    ],
+                    [
+                        20.251604,
+                        63.81531
+                    ],
+                    [
+                        20.251767,
+                        63.815447
+                    ],
+                    [
+                        20.252559,
+                        63.81561
+                    ],
+                    [
+                        20.254107,
+                        63.816043
+                    ],
+                    [
+                        20.255713,
+                        63.816489
+                    ],
+                    [
+                        20.257701,
+                        63.817091
+                    ],
+                    [
+                        20.257994,
+                        63.817194
+                    ],
+                    [
+                        20.258105,
+                        63.81715
+                    ],
+                    [
+                        20.25825,
+                        63.817135
+                    ],
+                    [
+                        20.258448,
+                        63.817167
+                    ],
+                    [
+                        20.258541,
+                        63.817229
+                    ],
+                    [
+                        20.258551,
+                        63.817295
+                    ],
+                    [
+                        20.258482,
+                        63.817358
+                    ],
+                    [
+                        20.258301,
+                        63.817404
+                    ],
+                    [
+                        20.258159,
+                        63.8174
+                    ],
+                    [
+                        20.258025,
+                        63.817364
+                    ],
+                    [
+                        20.256909,
+                        63.817842
+                    ],
+                    [
+                        20.256206,
+                        63.818168
+                    ],
+                    [
+                        20.255163,
+                        63.818651
+                    ],
+                    [
+                        20.255039,
+                        63.818777
+                    ],
+                    [
+                        20.253913,
+                        63.819469
+                    ],
+                    [
+                        20.253702,
+                        63.819531
+                    ],
+                    [
+                        20.253534,
+                        63.819551
+                    ],
+                    [
+                        20.253374,
+                        63.819613
+                    ],
+                    [
+                        20.253291,
+                        63.819698
+                    ],
+                    [
+                        20.253139,
+                        63.819737
+                    ],
+                    [
+                        20.252964,
+                        63.819732
+                    ],
+                    [
+                        20.252538,
+                        63.819766
+                    ],
+                    [
+                        20.251683,
+                        63.819882
+                    ],
+                    [
+                        20.25035,
+                        63.820082
+                    ],
+                    [
+                        20.24986,
+                        63.820128
+                    ],
+                    [
+                        20.249371,
+                        63.820144
+                    ],
+                    [
+                        20.249221,
+                        63.820166
+                    ],
+                    [
+                        20.249078,
+                        63.82021
+                    ],
+                    [
+                        20.249002,
+                        63.820285
+                    ],
+                    [
+                        20.248843,
+                        63.820329
+                    ],
+                    [
+                        20.248656,
+                        63.820327
+                    ],
+                    [
+                        20.248503,
+                        63.820279
+                    ],
+                    [
+                        20.248403,
+                        63.820348
+                    ],
+                    [
+                        20.24824,
+                        63.820417
+                    ],
+                    [
+                        20.247237,
+                        63.82068
+                    ],
+                    [
+                        20.245232,
+                        63.821287
+                    ],
+                    [
+                        20.243492,
+                        63.82189
+                    ],
+                    [
+                        20.243102,
+                        63.821994
+                    ],
+                    [
+                        20.242615,
+                        63.822105
+                    ],
+                    [
+                        20.241985,
+                        63.82222
+                    ],
+                    [
+                        20.241398,
+                        63.822285
+                    ],
+                    [
+                        20.241046,
+                        63.822321
+                    ],
+                    [
+                        20.240278,
+                        63.822391
+                    ],
+                    [
+                        20.239672,
+                        63.822444
+                    ],
+                    [
+                        20.239047,
+                        63.822498
+                    ],
+                    [
+                        20.238895,
+                        63.822511
+                    ],
+                    [
+                        20.238321,
+                        63.822561
+                    ],
+                    [
+                        20.238109,
+                        63.822579
+                    ],
+                    [
+                        20.23726,
+                        63.822649
+                    ],
+                    [
+                        20.236504,
+                        63.822692
+                    ],
+                    [
+                        20.236101,
+                        63.822699
+                    ],
+                    [
+                        20.235451,
+                        63.822674
+                    ],
+                    [
+                        20.234562,
+                        63.822612
+                    ],
+                    [
+                        20.233714,
+                        63.822554
+                    ],
+                    [
+                        20.233499,
+                        63.822539
+                    ],
+                    [
+                        20.232053,
+                        63.822441
+                    ],
+                    [
+                        20.231301,
+                        63.822379
+                    ],
+                    [
+                        20.231219,
+                        63.822372
+                    ],
+                    [
+                        20.231076,
+                        63.822359
+                    ]
+                ],
+                "type": "LineString"
+            }
+        }
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "service": "routing",
+        "timestamp": 1720526160937,
+        "query": {
+            "coordinates": [
+                [
+                    20.231078,
+                    63.8223556
+                ],
+                [
+                    20.2301522,
+                    63.84084
+                ],
+                [
+                    20.2137034,
+                    63.8485618
+                ],
+                [
+                    20.4048271,
+                    63.8734404
+                ],
+                [
+                    20.411332,
+                    63.8689062
+                ],
+                [
+                    20.231078,
+                    63.8223556
+                ]
+            ],
+            "profile": "driving-hgv",
+            "format": "geojson"
+        },
+        "engine": {
+            "version": "8.1.0",
+            "build_date": "2024-06-05T10:07:23Z",
+            "graph_date": "2024-07-02T05:27:20Z"
+        }
+    }
+}
